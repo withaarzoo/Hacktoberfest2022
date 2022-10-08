@@ -9,5 +9,8 @@
     left: 50%;
     transform: translate(-50%, -50%);
     border: 1px solid #000;
+    padding-inline: 20px;
+    overflow-x: scroll;
+    overflow-x: hidden;
   }
   
